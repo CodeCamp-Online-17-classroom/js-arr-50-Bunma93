@@ -10,3 +10,4 @@ const scores = [
 ];
 // expected result: 89
 ```
+-ปฏิพงษศกร บุญมา(เจมส์)
